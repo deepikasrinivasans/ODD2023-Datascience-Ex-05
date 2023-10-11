@@ -104,10 +104,11 @@ df2
 ![ds 8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/1e68c3e1-d24f-45c1-a2cd-064faf4bfb2d)
 ### Ordinal Encoder:
 ![ds 9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/a299b218-7585-4b86-a770-a432c7d7e6f6)
-### Label Encoder:
 ![ds 10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/0bf8837c-21dd-4b8f-a46c-385e8bf736a7)
-### Binary Encoder:
+### Label Encoder:
 ![ds 11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/84ada579-4192-4bac-9878-821db5289436)
+### Binary Encoder:
+![ds 12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/d2897922-ec3d-4940-bf0a-0e8bc043d787)
 ![ds 13](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-05/assets/119393935/6f0d391e-3702-40b5-9a37-03eb5eae2565)
 ## For bmi.csv file
 ### Initial data:
