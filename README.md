@@ -20,7 +20,7 @@ Register Number: 212222230028
 ### For Encoding.csv file
 ```
 import pandas as pd
-df=pd.read_csv('Encoding Data.csv')
+df=pd.read_csv('/content/Encoding Data.csv')
 df.head()
 df['ord_2'].unique()
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
@@ -45,7 +45,7 @@ df
 ### Data.csv
 ```
 import pandas as pd
-df1 = pd.read_csv("data.csv")
+df1 = pd.read_csv("/content/data.csv")
 df1.head()
 df1['Ord_1'].unique()
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
